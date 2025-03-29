@@ -24,8 +24,8 @@ Estas são algumas das tecnologias usadas neste repositório:
 </div>
 
 ### 🔗 Links Úteis
-- [Documentação Oficial do Git] (https://git-scm.com/docs/git/pt_BR)
-- [Documentação Oficial do GitHub] (https://docs.github.com/pt)
-- [Baixe o GitHub Desktop] (https://desktop.github.com/download/)
-- [Baixe o VSCode]([https://www.reddit.com/r/arduino/](https://code.visualstudio.com/))
+- [Documentação Oficial do Git](https://git-scm.com/docs/git/pt_BR)
+- [Documentação Oficial do GitHub](https://docs.github.com/pt)
+- [Baixe o GitHub Desktop](https://desktop.github.com/download/)
+- [Baixe o VSCode](https://code.visualstudio.com/)
 - [Baixe o Git](https://git-scm.com/downloads)
