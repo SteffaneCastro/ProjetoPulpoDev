@@ -23,7 +23,7 @@ Estas são algumas das tecnologias usadas neste repositório:
   <img align="center" src="https://github.com/SteffaneCastro/nlw-spacetime/assets/43351342/baf2bae9-6f47-4387-bdc5-7c78ed250420" alt="logo" width="70">
   <img align="center" alt="Rafa-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img aling="center" alt="JavaScript" height="60" width="80" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png">
+   <img align="center" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="logo" width="80">
 </div>
 
 ### 🔗 Links Úteis
